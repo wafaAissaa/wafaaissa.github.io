@@ -24,18 +24,18 @@ repository               : "https://wafaaissaa.github.io/wafaaissa.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wafa Aissa"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Belgium"
+  employer         : "UCLouvain"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wafa.aissa@uclouvain.be" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Blahw78AAAAJ&hl=fr"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
