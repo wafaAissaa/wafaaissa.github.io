@@ -17,8 +17,8 @@ Here’s my cat, Beyoncé 👑:
 ![Beyoncé 👑](https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi2.png){: width="300px" }
 
 <p float="left">
-  <img src="https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi.png" alt="Beyoncé 👑" width="300px" style="margin-right: 10px;" />
-  <img src="https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi2.png" alt="Beyoncé 👑 again" width="300px" />
+  <img src="https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi.png" alt="Beyoncé 👑" height="200px" style="margin-right: 10px;" />
+  <img src="https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi2.png" alt="Beyoncé 👑 again" height="200px" />
 </p>
 
 
