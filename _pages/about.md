@@ -12,9 +12,9 @@ I’m Wafa Aissa, a postdoctoral researcher passionate about deep learning for n
 I recently completed my PhD at Conservatoire National des Arts et Métiers Paris ([CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp)), in the [CEDRIC](https://cedric.cnam.fr/) lab, under the supervision of Prof. Michel Crucianu, where I focused on neural module networks for compositional visual reasoning, developing methods to make AI models more interpretable.
 
 
-Here’s my cat, Beyoncé 👑:
+<!-- Here’s my cat, Beyoncé 👑: 
 
-![Beyoncé 👑](https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi2.png){: width="300px" }
+![Beyoncé 👑](https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi2.png){: width="300px" } -- >
 
 <p float="left">
   <img src="https://wafaaissaa.github.io/wafaaissa.github.io/images/bibi.png" alt="Beyoncé 👑" height="200px" style="margin-right: 10px;" />
