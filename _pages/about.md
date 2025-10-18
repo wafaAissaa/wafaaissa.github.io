@@ -14,7 +14,8 @@ I recently completed my PhD at Conservatoire National des Arts et Métiers Paris
 
 Here’s my cat, Beyoncé 👑:
 
-![Beyoncé 👑](/images/bibi.png){: width="300px"}
+![Beyoncé 👑](/images/bibi.png)
+
 
 
 <!--
