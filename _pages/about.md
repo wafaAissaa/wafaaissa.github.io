@@ -9,7 +9,8 @@ redirect_from:
 
 I’m Wafa Aissa, a postdoctoral researcher passionate about deep learning for natural language processing and computer vision. My work focuses on creating models that are not only effective but also interpretable and user-centered, bridging the gap between advanced AI and real-world human needs.
 
-I recently completed my PhD at Conservatoire National des Arts et Métiers Paris ([CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp)), in the [CEDRIC](https://cedric.cnam.fr/) lab, under the supervision of Michel Crucianu, where I focused on modular neural networks for compositional visual reasoning, developing methods to make AI models more structured, interpretable, and explainable.
+I recently completed my PhD at Conservatoire National des Arts et Métiers Paris ([CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp)), in the [CEDRIC](https://cedric.cnam.fr/) lab, under the supervision of Prof. Michel Crucianu, where I focused on neural module networks for compositional visual reasoning, developing methods to make AI models more interpretable.
+
 
 <!--
 A data-driven personal website
