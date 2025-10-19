@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "A reinforcement learning-driven translation model for search-oriented conversational systems"
+authors:
+  - Wafa Aissa
+  - Laure Soulier
+  - Ludovic Denoyer
+date: 2018-08-29
+venue: "Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd International Workshop on Search-Oriented Conversational AI"
+slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/poster_SCAI_EMNLP.pdf'
+paperurl: 'https://aclanthology.org/W18-5705.pdf'
+citation: "Aissa, Wafa, Laure Soulier, and Ludovic Denoyer. 'A reinforcement learning-driven translation model for search-oriented conversational systems.' Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd International Workshop on Search-Oriented Conversational AI (2018)."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Search-oriented conversational systems rely on information needs expressed in natural language (NL). We focus here on the understanding of NL expressions for building keyword-based queries. We propose a reinforcement-learning-driven translation model framework able to 1) learn the translation from NL expressions to queries in a supervised way, and, 2) to overcome the lack of large-scale dataset by framing the translation model as a word selection approach and injecting relevance feedback in the learning process. Experiments are carried out on two TREC datasets and outline the effectiveness of our approach.
