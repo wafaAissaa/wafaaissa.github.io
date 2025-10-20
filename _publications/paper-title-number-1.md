@@ -1,5 +1,8 @@
 ---
 title: "A reinforcement learning-driven translation model for search-oriented conversational systems"
+collection: publications
+category: conferences
+permalink: /publication/paper-title-number-1
 authors:
   - Wafa Aissa
   - Laure Soulier
