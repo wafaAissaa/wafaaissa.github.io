@@ -1,11 +1,11 @@
 ---
 title: "Neural Module Networks for Compositional Visual Reasoning"
 collection: publications
-category: thesis
+category: conferences
 permalink: /publication/paper-title-number-6
 excerpt: ''
 date: 2023-12-18
-venue: 'Actes des 32ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : articles scientifiques originaux. 2025, Marseille, France'
+venue: 'PhD Thesis, HESAM Université, 2023.'
 paperurl: 'https://theses.hal.science/tel-04538813'
 slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/slides_phd_thesis.pdf'
 ---
