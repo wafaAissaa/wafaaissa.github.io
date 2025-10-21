@@ -9,7 +9,7 @@ authors:
   - Ludovic Denoyer
 date: 2018-08-29
 excerpt : ''
-venue: "Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd International Workshop on Search-Oriented Conversational AI"
+venue: "In Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd International Workshop on Search-Oriented Conversational AI, pages 33–39, Brussels, Belgium. Association for Computational Linguistics."
 slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/poster_SCAI_EMNLP.pdf'
 paperurl: 'https://aclanthology.org/W18-5705.pdf'
 ---
