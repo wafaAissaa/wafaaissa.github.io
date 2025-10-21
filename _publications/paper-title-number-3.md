@@ -6,6 +6,7 @@ permalink: /publication/paper-title-number-3
 date: 2023-02-20
 venue: ' Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, Feb 2023, Lisbon, Portugal.'
 paperurl: 'https://hal.science/hal-04045405v1/file/Curriculum_Learning_for_Compositional_Visual_Reasoning.pdf'
+slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/slides_VISAPP_CL.pdf'
 citation: 'Wafa Aissa, Marin Ferecatu, Michel Crucianu. Curriculum Learning for Compositional Visual Reasoning. Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, Feb 2023, Lisbon, Portugal'
 ---
 
