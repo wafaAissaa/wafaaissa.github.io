@@ -1,7 +1,7 @@
 ---
 title: "Neural Module Networks for Compositional Visual Reasoning"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/paper-title-number-6
 excerpt: ''
 date: 2023-12-18
