@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: "🚧 Website under construction — updates coming soon.
-
-👋 Hi!"
+title: "👋 Hi!"
+subtitle: "🚧 website under construction — updates coming soon."
 author_profile: true
 redirect_from: 
   - /about/
