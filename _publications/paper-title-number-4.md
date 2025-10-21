@@ -4,12 +4,10 @@ collection: publications
 category: conferences
 permalink: /publication/paper-title-number-4
 date: 2023-08-23
+excerpt : ''
 venue: 'Advanced Concepts for Intelligent Vision Systems: 21st International Conference, ACIVS 2023 Kumamoto, Japan, August 21–23, 2023 Proceedings'
 paperurl: 'https://hal.science/hal-04252818v1/document'
 slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/slides_acivs_TF.pdf'
-citation: 'Wafa Aissa, Marin Ferecatu, Michel Crucianu. Multimodal Representations for Teacher-Guided Compositional Visual Reasoning. Advanced Concepts for Intelligent Vision Systems, 21st International Conference (ACIVS 2023), Aug 2023, Kumamoto, Japan. pp.357-369, ff10.1007/978-3-031-45382-3_30ff.'
-show_abstract: false
-show_citation: false
 ---
 
 Neural Module Networks (NMN) are a compelling method for visual question answering, enabling the translation of a question into a program consisting of a series of reasoning sub-tasks that are sequentially executed on the image to produce an answer. NMNs provide enhanced explainability compared to integrated models, allowing for a better understanding of the underlying reasoning process. To improve the
