@@ -5,7 +5,7 @@ category: thesis
 permalink: /publication/paper-title-number-6
 excerpt: ''
 date: 2023-12-18
-venue: 'PhD Thesis, HESAM Université, 2023'
+venue: 'PhD Thesis, HESAM Université'
 paperurl: 'https://theses.hal.science/tel-04538813'
 slidesurl: 'https://wafaaissaa.github.io/wafaaissa.github.io//files/slides_phd_thesis.pdf'
 ---
