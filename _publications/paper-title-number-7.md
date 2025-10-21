@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/paper-title-number-7
 excerpt: ''
 date: 2025-11-05
-venue: 'Accepted at the 2025 Conference on Empirical Methods in Natural Language Processing EMNLP, Suzhou, China ‑ System demonstrations (to appear)'
+venue: 'Accepted at the 2025 Conference on Empirical Methods in Natural Language Processing EMNLP ‑ System demonstrations, Suzhou, China (to appear)'
 
 ---
 
