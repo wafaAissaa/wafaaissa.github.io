@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/ATER-1
 venue: "Concervatoire National des Arts et Métiers CNAM Paris, Computer Science Department"
-date: 2022
+date: 2022-09-01
 location: "Paris, France"
 ---
 
