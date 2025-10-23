@@ -9,7 +9,11 @@ redirect_from:
 
 I’m Wafa Aissa, a postdoctoral researcher passionate about deep learning for natural language processing and computer vision. My work focuses on creating models that are not only effective but also interpretable and user-centered, bridging the gap between advanced AI and real-world human needs.
 
+Currently, I am a first-year postdoc at the [Cental](https://www.uclouvain.be/fr/instituts-recherche/ilc/cental/presentation-du-cental) lab, [UCLouvain](https://www.uclouvain.be/) working on AI for inclusive languge technologies as part of the [iRead4Skills](https://iread4skills.com/) Horizon Europe poroject.  
+
 I recently completed my PhD at Conservatoire National des Arts et Métiers Paris ([CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp)), in the [CEDRIC](https://cedric.cnam.fr/) lab, under the supervision of Prof. Michel Crucianu, where I focused on neural module networks for compositional visual reasoning, developing methods to make AI models more interpretable.
+
+I hold a [Master](https://sciences.sorbonne-universite.fr/en/masters/master-computer-science/mind)’s degree in Artificial Intelligence from [Sorbonne Université](https://www.sorbonne-universite.fr/en#Science%20and%20Engineering) (UPMC), Faculty of Science and Engineering, Paris, France. I specialized in core areas of AI, including machine and deep learning, natural language processing and information retrieval, computer vision, and symbolic AI.
 
 🚧 Website under construction — updates coming soon.
 
